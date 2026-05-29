@@ -1,6 +1,6 @@
 import random
 
-token = '6318580427:AAGM9PPQ0K4_o71MXtG5WWR1NMtrXmsjb6Y'
+token = ''
 import telebot
 from telebot import types
 from random import shuffle
